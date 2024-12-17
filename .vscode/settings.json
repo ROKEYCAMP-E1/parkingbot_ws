@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kimdahun/parkingbot_ws/build/car_tutorial",
+        "/home/kimdahun/parkingbot_ws/install/car_tutorial/lib/python3.10/site-packages",
+        "/home/kimdahun/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/kimdahun/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/kimdahun/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kimdahun/parkingbot_ws/build/car_tutorial",
+        "/home/kimdahun/parkingbot_ws/install/car_tutorial/lib/python3.10/site-packages",
+        "/home/kimdahun/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/kimdahun/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/kimdahun/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
